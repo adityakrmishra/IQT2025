@@ -1,6 +1,7 @@
-Name: Custom Alpha - Low Price Reversion​
+# Low Price Reversion​
 
-Category: Price Reversion​
+# Category: 
+Price Reversion​
 
 
 # Color: 
